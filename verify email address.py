@@ -6,4 +6,3 @@ if re.search(r"^\w.+@\w+\.(\w+\.)?(com|edu|bd|uk)$", email, re.IGNORECASE):
 else:
     print("Invalid Email")
 
-# new line added
